@@ -1,4 +1,4 @@
 # GenAlpha
 This is First git repository
 <br>
-Author name is Umang Shrivastava
+Author name is Umang mannu
